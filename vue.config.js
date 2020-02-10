@@ -11,5 +11,6 @@ module.exports = {
       .set('serve',resolve('src/serve'))
       .set('store',resolve('src/store'))
       .set('view',resolve('src/view'))
+      .set('common',resolve('src/common'))
   }
 }
